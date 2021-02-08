@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jason LeMoine, and I'm a software engineer in Vermont. I am not a urologist—that's the other guy. While I'm not any help in that “area,” if you need some programming done, I may be able to help.
+
 <!--
 **notaurologist/notaurologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
